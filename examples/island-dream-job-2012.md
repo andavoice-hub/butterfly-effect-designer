@@ -27,7 +27,7 @@ The client (the booking site) pushed this one card on **22 Feb 2012** (C). Every
 | E3 | Jury picks 50; public vote opens on the 50 | Apr 2012 | vote pulls the applicants' friends and family in (C) |
 | E4 | Top 50 do an overnight "writer's stay" at a B&B and publish | Apr–May 2012 | 12 finalists chosen on vote + review + host satisfaction (C) |
 | E5 | 12 finalists tour the island; daily posts | May–Jun 2012 | continuous coverage window (C) |
-| E6 | Winner announced, book of the stays published | 4 Jul 2012 (B) | 10,000 new site members over the campaign (C) |
+| E6 | Winner announced, book of the stays published | 4 Jul 2012 (B) | 10,000 new site members during the campaign; **60,000+ fans by the end of the run**, with the organizer reporting over a million daily visits at peak (C) |
 
 **Planning side** — cards that needed someone else to say yes (accelerators, not prerequisites):
 
@@ -49,7 +49,7 @@ The execution column ran even if P2–P4 had said no; they only made it cheaper 
 
 ## 2. The equals chain (the lateral jumps that made it work)
 
-`travel = free time = between jobs = job-seeker traffic = a job bank's front page = applicants with cameras = 506 free videos = a public vote = every applicant's friends = B&B hosts who want writers = 50 sponsors paying NT$30k = the prize money = press that writes "9,000 applied" = gear brands wanting the finalists = a book = 10,000 members = an exit`
+`travel = free time = between jobs = job-seeker traffic = a job bank's front page = applicants with cameras = 506 free videos = a public vote = every applicant's friends = B&B hosts who want writers = 50 sponsors paying NT$30k = the prize money = press that writes "9,000 applied" = gear brands wanting the finalists = a book = 60,000 fans = an exit`
 
 Three jumps worth naming:
 1. **Prize money = ad budget.** NT$1.5M as a *salary* bought more attention than NT$1.5M as ads would have — and it was recouped by the hosts.
@@ -90,8 +90,8 @@ No desire runs three cards in a row; rational (ranking, top-50 cut) alternates w
 3. **Matthew / reflexivity**: the published number was *applications*, and "9,000 people applied for one job" became the press hook that drove more applications.
 4. **Lollapalooza**: the first card stacked five desires — being seen, winning, face, bargain, herd. More than three, so no ad budget was needed.
 5. **Backfire + second-order anger**: hosts overwhelmed by visiting fans; 38 of the top 50 not making the final 12; voters feeling gamed. The organizer's answer was to keep the jury in the loop (vote + review + host satisfaction), not vote alone.
-6. **Heat cycle**: ~4.5 months from listing to winner (22 Feb → 4 Jul 2012), with content refreshed by each stage. The long-tail cards: the book, the reviews, the 10,000 members.
-7. **Evidence grades**: applications (B), 50 → 12 → 1 (B), 506 videos (C), 50 × NT$30k (C), 10,000 members (C), "over NT$10M" placement (C), later acquisition by a Japanese travel group for ≈ NT$100M (C, organizer-reported — not independently verified).
+6. **Heat cycle**: ~4.5 months from listing to winner (22 Feb → 4 Jul 2012), with content refreshed by each stage. The long-tail cards: the book, the reviews, the fan base that kept growing after the winner was named — 10,000 members during the run, 60,000+ fans by the end.
+7. **Evidence grades**: applications (B), 50 → 12 → 1 (B), 506 videos (C), 50 × NT$30k (C), 10,000 members during the run and 60,000+ fans at the end (C), "over NT$10M" placement (C), later acquisition by a Japanese travel group for ≈ NT$100M (C, organizer-reported — not independently verified).
 
 ---
 
@@ -106,7 +106,7 @@ No desire runs three cards in a row; rational (ranking, top-50 cut) alternates w
 ### Sources
 
 - Taiwan 2012: newtalk.tw (2012-07-04), news.cts.com.tw (201207041040368), cnyes.com (2926812) — press, **B**.
-- Organizer's course slides (strategist AnDa, 2012 case review) — **C** for budget breakdown, 506 videos, 10,000 members, host sponsorship model, acquisition.
+- Organizer's course slides (strategist AnDa, 2012 case review) — **C** for budget breakdown, 506 videos, 10,000 members during the run, 60,000+ fans at the end, million-visit peak days, host sponsorship model, acquisition.
 - Australia 2009: statements.qld.gov.au/statements/57339, teq.queensland.com case page, Campaign Asia case study, Wikipedia "The Best Job in the World (advertising)" — **A/B**.
 - Centola, Becker, Brackbill & Baronchelli (2018), *Science* 360(6393): "Experimental evidence for tipping points in social convention" — **A**.
 
