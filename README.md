@@ -34,6 +34,10 @@ mkdir -p ~/.claude/skills/butterfly-effect-designer && curl -L https://raw.githu
 
 **Any other tool**: paste the file as the system prompt. It stands on its own.
 
+## Worked example｜真實案例
+
+**[examples/island-dream-job-2012.md](examples/island-dream-job-2012.md)** — the 2012 "Taiwan's Best Job" campaign read backwards as a domino chain: a startup with NT$1.5M left turned it into a job contest, ~9,300 applied, 50 B&Bs paid the prize, the press came on its own. Every number graded A/B/C.
+
 ## Try it｜試一句
 
 > 「我要賣鳳梨酥」 / "I sell pineapple cakes in Taichung. Chain it."
